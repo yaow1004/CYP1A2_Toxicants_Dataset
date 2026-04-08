@@ -3,6 +3,9 @@
 
 
 # Cite this paper
+
+Markdown
+'''
 @incollection{Wei2026CYP1A2,
   author    = {Wei, Y. and Guerrini, U. and Eberini, I.},
   title     = {Computational Analysis and Prediction of CYP1A2-Related Toxicants for Safer Drug Discovery},
@@ -15,3 +18,4 @@
   year      = {2026},
   doi       = {10.1007/978-3-032-08452-1_23}
 }
+'''
