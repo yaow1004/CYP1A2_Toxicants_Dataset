@@ -1,9 +1,20 @@
 ## **Computational Analysis and Prediction of CYP1A2-Related Toxicants for Safer Drug Discovery**
 
 
+## 1. Environment Setup
 
+### Create a new environment
 
-## Cite this paper
+```bash
+conda create -n cyp1a2_env python=3.10 -y
+conda activate cyp1a2_env
+```
+### Create a new environment
+```bash
+conda install -c conda-forge numpy pandas matplotlib scikit-learn umap-learn rdkit -y
+```
+
+## 2. Cite this paper
 If you use this work, please cite:
 
 ```bibtex
