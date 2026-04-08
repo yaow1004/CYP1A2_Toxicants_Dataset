@@ -14,6 +14,11 @@ conda activate cyp1a2_env
 conda install -c conda-forge numpy pandas matplotlib scikit-learn umap-learn rdkit -y
 ```
 
+## 3. Dataset
+
+The complete datasets used in this work are available on Zenodo:
+[https://zenodo.org/records/194fsa6](https://zenodo.org/records/19475996)
+
 ## 2. Cite this paper
 If you use this work, please cite:
 
